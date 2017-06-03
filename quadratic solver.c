@@ -62,7 +62,7 @@ if (discr > 0){
 
     printf("Press ENTER to dismiss me\n\n");
     printf("------------------------------------------------------------------------------\n");
-    printf("Github: @creatorpanda\n");
+    printf("Github: creatorpanda\n");
     printf("creation of 2017\n");
     getch();
 }
